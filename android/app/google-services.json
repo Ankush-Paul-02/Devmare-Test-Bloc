@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17269744673",
+    "project_id": "devm-a7089",
+    "storage_bucket": "devm-a7089.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17269744673:android:b2349089d155f962746f60",
+        "android_client_info": {
+          "package_name": "com.example.devmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17269744673-cldug18ellge1e2raas3s4g5ft8qd6bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgh6kYf_-sIpKeax8eXsMegxpiyEyeAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17269744673-cldug18ellge1e2raas3s4g5ft8qd6bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
