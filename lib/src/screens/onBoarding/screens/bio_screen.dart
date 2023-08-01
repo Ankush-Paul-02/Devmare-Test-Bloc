@@ -29,7 +29,7 @@ class BioScreen extends StatelessWidget {
                 text: 'Describe Yourself as a Bit.',
               ),
               20.heightBox,
-              CustomTextField(
+              const CustomTextField(
                 hint: 'Enter your bio..',
                 // controller: bioController,
               ),
